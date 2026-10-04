@@ -1,16 +1,22 @@
-## Hi there 👋
+#Hi I'm Divya!
 
-<!--
-**Divyadiv050/Divyadiv050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science | Machine Learning | Data Analytics
 
-Here are some ideas to get you started:
+Recent IT graduate focused on developing practical expertise in data science, machine learning, and data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Focus
+
+- Python
+- SQL
+- Pandas & NumPy
+- Statistics
+- Machine Learning
+- Data Visualization
+- Power BI & Tableau
+
+Currently strengthening my foundation through hands-on learning, real-world datasets, and practical problem-solving.
+
+Learning • Building • Sharing the journey
+
+Connect with me:
+"Linkedin" : https://www.linkedin.com/in/divya-it
