@@ -1,4 +1,4 @@
-#Hi I'm Divya!
+Hi I'm Divya!
 
 Data Science | Machine Learning | Data Analytics
 
@@ -19,4 +19,4 @@ Currently strengthening my foundation through hands-on learning, real-world data
 Learning • Building • Sharing the journey
 
 Connect with me:
-"Linkedin" : https://www.linkedin.com/in/divya-it
+"Linkedin":https://www.linkedin.com/in/divya-it
