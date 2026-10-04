@@ -1,10 +1,10 @@
-Hi I'm Divya!
+Hi, I'm Divya 👋
 
 Data Science | Machine Learning | Data Analytics
 
-Recent IT graduate focused on developing practical expertise in data science, machine learning, and data analytics.
+I'm a recent IT graduate with a strong interest in Data Science, Machine Learning, and solving real-world problems through data.
 
-Technical Focus
+Currently building my skills in:
 
 - Python
 - SQL
@@ -14,9 +14,11 @@ Technical Focus
 - Data Visualization
 - Power BI & Tableau
 
-Currently strengthening my foundation through hands-on learning, real-world datasets, and practical problem-solving.
+I'm focused on learning through practical work, exploring real-world datasets, and building meaningful projects.
 
-Learning • Building • Sharing the journey
+Learning, building & sharing my journey.
 
-Connect with me:
-"Linkedin":https://www.linkedin.com/in/divya-it
+Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/divya-it
+- Email: divyadiv0500@gmail.com 
